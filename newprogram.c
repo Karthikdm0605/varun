@@ -1,6 +1,6 @@
 #include <stdio.h>
 void main()
 {
-printf("nanu karthik");
+printf("nanu mr  karthik dummikoppalu Arkalgud ");
 
 }
